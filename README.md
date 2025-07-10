@@ -62,7 +62,7 @@ Outcome: Provided actionable insights to managers, improving the decision-making
 
 
 
-4\. HR Performative8. Employee Performance Evaluation System
+4\. Employee Performance Evaluation System
 
 Overview: Built a tool for evaluating employee performance based on multiple KPIs.
 
