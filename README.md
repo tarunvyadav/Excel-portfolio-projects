@@ -28,7 +28,7 @@ Pivot Tables \& Data Analysis: Focused on pivot tables to quickly summarize and 
 
 
 
-Project Highlights
+**Project Highlights**
 
 Here’s a list of Excel projects that reflect my progression, highlighting various functionalities I’ve mastered along the way:
 
@@ -84,7 +84,7 @@ Each project serves as a testament to my ability to solve real-world problems us
 
 
 
-Future Projects and Learning
+**Future Projects and Learning**
 
 As Excel evolves and new features are added, I am committed to continuing my learning journey. I aim to explore deeper into Power BI integration, advanced data modeling, and complex VBA scripting to further enhance my skillset and create even more sophisticated solutions.
 
